@@ -35,7 +35,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rahim-lrb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahim-lrb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-lrb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -113,12 +112,3 @@
 
 <br/>
 -->
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
-
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
