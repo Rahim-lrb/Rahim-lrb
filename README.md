@@ -46,10 +46,7 @@ Rahim-lrb@github
 
 ### Languages and Tools 🛠 : 
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
