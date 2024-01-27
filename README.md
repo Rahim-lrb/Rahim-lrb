@@ -2,6 +2,31 @@
 
 <br>
 
+
+<h1 align="center">
+Hi, I'm abderrahim !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+front+end+developer;Freelancer&center=true&width=380&height=45"></a>
+</p>
+
+```
+Rahim-lrb@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+```
+<hr>
+
+
+
+
 <h3 align="center">
   Welcome to Rahim Lrb profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -127,16 +152,16 @@
 
 
 <h1 align="center">
-Hi, I'm Ahmed Nageeb!
+Hi, I'm abderrahim !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+front+end+developer;Freelancer&center=true&width=380&height=45"></a>
 </p>
 
 ```
-ahmednageebmahmoud@github
+Rahim-lrb@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
