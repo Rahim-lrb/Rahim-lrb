@@ -9,12 +9,15 @@
 ```
 Rahim-lrb@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🚀 Dynamic Full Stack Developer & Front-End Maestro 💻
+🌐 Passionate about crafting seamless user experiences and robust, scalable solutions.
+🖥️ As a skilled Front-End Developer, I thrive on turning design visions into functional and visually appealing websites.
+🚀 Constantly evolving in the world of web technologies, specializing in frameworks and languages that power the frontend.
+🌟 Proficient in JavaScript and its ecosystem, delivering engaging user interfaces with a keen eye for design implementation.
+🌍 Proudly representing Algeria on the global tech stage, I bring a fresh perspective and creativity to every project.
+💼 Seeking freelance opportunities to contribute my Full Stack Development expertise and create impactful digital experiences.
+
+🔗 Let's collaborate and bring your ideas to life! Open to exciting projects and challenges. 🚀
 ```
 <hr>
 
