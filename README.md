@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+front+end+developer;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Freelancer&center=true&width=380&height=45"></a>
 </p>
 
 ```
@@ -28,28 +28,22 @@ Rahim-lrb@github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-lrb&show_icons=true&theme=radical)
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-lrb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
+# 💻 Tech Stack:
 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs)](https://skillicons.dev)
 
-### Languages and Tools 🛠 : 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
-
+# I’m currently learning 
 
 
-### I’m currently learning 
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
-
 
 
  ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"> connect with Me
