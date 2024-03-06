@@ -21,21 +21,9 @@ Rahim-lrb@github
 🔗 Let's collaborate and bring your ideas to life! Open to exciting projects and challenges. 🚀
 ```
 <hr>
-
-
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-lrb&show_icons=true&theme=radical)
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-lrb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
 # 💻 Tech Stack:
-
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs)](https://skillicons.dev)
 
@@ -45,11 +33,15 @@ Rahim-lrb@github
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
+# 📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-lrb&show_icons=true&theme=radical)
+
 
  ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"> connect with Me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-laribi-467b542b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarabdou2002@gmail.com)](mailto:aberrahimcoder@gmail.com)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Omar.ElShiref.programmer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarabdou2002@gmail.com)](mailto:omarabdou2002@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-shiref-00b04b257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar_elshiref_programmer/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://www.whatsapp.com/)
 
