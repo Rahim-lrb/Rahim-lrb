@@ -39,12 +39,12 @@ This MERN stack social media project features stunning UI, secure user authentic
 
 ## Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,nextjs,redux,typescript)](https://skillicons.dev)
 
 ## currently Learning
 
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+[![My Skills](https://skillicons.dev/icons?i=figma,php,wordpress)](https://skillicons.dev)
+
 
 
 ## GitHub Stats
