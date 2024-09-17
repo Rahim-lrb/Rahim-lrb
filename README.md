@@ -31,8 +31,8 @@ Rahim-lrb@github
 # My Projects
 
 ### 📱  social media
-- **Live:** [wex_media](https://wex-media.netlify.app/)
-- **Repository:** [GitHub Repo](https://github.com/Rahim-lrb/mern-social-media-frontend)
+- **Live:** [NebulaNet media](https://nebula-net-social.onrender.com/)
+- **Repository:** [GitHub Repo](https://github.com/Rahim-lrb/nebula-net-social)
 
 This MERN stack social media project features stunning UI, secure user authentication, post management, and commenting/liking functionality. It leverages React.js, contextApi, Axios, and JWT for efficient development and offers potential improvements like real-time updates, enhanced search, and responsive design. Contribute and collaborate to create a vibrant social platform experience.
 
