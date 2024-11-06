@@ -21,11 +21,19 @@
 
 # My Projects
 
-### 📱  social media
-- **Live:** [NebulaNet media](https://nebula-net-social.onrender.com/)
-- **Repository:** [GitHub Repo](https://github.com/Rahim-lrb/nebula-net-social)
+### 📱 NebulaNet Media (social media)
+**Live Demo**: [NebulaNet media](https://nebula-net-social.onrender.com/)
 
-This MERN stack social media project features stunning UI, secure user authentication, post management, and commenting/liking functionality. It leverages React.js, contextApi, Axios, and JWT for efficient development and offers potential improvements like real-time updates, enhanced search, and responsive design. Contribute and collaborate to create a vibrant social platform experience.
+**Repository**: [GitHub Repo](https://github.com/Rahim-lrb/nebula-net-social)
+
+This **MERN stack social media project** boasts a sleek, modern UI with secure **user authentication**, **post management**, and **commenting/liking** features. Built with **React.js**, **Context API**, **Axios**, and **JWT**, it delivers a smooth, interactive user experience.
+
+**Key Features**:
+- Real-time updates
+- Advanced search functionality
+- Fully responsive design
+
+Join us in enhancing NebulaNet Media—collaborate to shape a dynamic, engaging social platform experience!
 
 
 ## Tech Stack:
