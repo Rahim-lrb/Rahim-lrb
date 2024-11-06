@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Rahim, Welcome To My Github Profile ♥ ;
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Abderrahim, a frontend web developer, Welcome To My Github Profile ♥ ;
 </h1>
 
 <br>
@@ -11,22 +11,13 @@
 
 # About Me
 
-### Personal Site ☞ [portfolio](https://rahim-portfolio-alpha.vercel.app/)
-### LinkedIn ☞ [Rahim](https://www.linkedin.com/in/abderrahim-laribi-467b542b0/)
+👋 Hi there! I'm a passionate frontend developer specializing in creating responsive and interactive web applications using **React.js**, **Next.js**, **Redux**, **Tailwind CSS**, and more. With a focus on modern JavaScript and clean, efficient code, I aim to build seamless user experiences.
 
-```
-Rahim-lrb@github
--------------------------
-🚀 Dynamic Full Stack Developer & Front-End Maestro 💻
-🖥️ As a skilled Front-End Developer, I thrive on turning design visions into functional and visually appealing websites.
-🚀 Constantly evolving in the world of web technologies, specializing in frameworks and languages that power the frontend.
-🌟 Proficient in JavaScript and its ecosystem, delivering engaging user interfaces with a keen eye for design implementation.
-💼 Seeking freelance opportunities to contribute my Full Stack Development expertise and create impactful digital experiences.
+💻 I'm continuously learning and exploring new technologies to refine my skills and deliver high-quality projects. Currently, I'm diving deeper into TypeScript to strengthen my frontend toolkit.
 
-🔗 Let's collaborate and bring your ideas to life! Open to exciting projects and challenges. 🚀
+**Portfolio** ☞ [**Portfolio**](https://rahim-portfolio-alpha.vercel.app/)
 
-```
-
+**LinkedIn** ☞ [**Rahim**](https://www.linkedin.com/in/abderrahim-laribi-467b542b0/)
 
 # My Projects
 
