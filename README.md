@@ -22,6 +22,9 @@
 # My Projects
 
 ### 📱 NebulaNet Media (social media)
+
+[![Screenshot-2024-09-15-225929.png](https://i.postimg.cc/qBX63xSv/Screenshot-2024-09-15-225929.png)](https://postimg.cc/G9tp0GbW)
+
 **Live Demo**: [NebulaNet media](https://nebula-net-social.onrender.com/)
 
 **Repository**: [GitHub Repo](https://github.com/Rahim-lrb/nebula-net-social)
