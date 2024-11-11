@@ -11,7 +11,7 @@
 
 # About Me
 
-👋 Hi there! I'm a passionate frontend developer specializing in creating responsive and interactive web applications using **React.js**, **Next.js**, **Redux**, **Tailwind CSS**, and more. With a focus on modern JavaScript and clean, efficient code, I aim to build seamless user experiences.
+👋 Hi there! I'm a passionate frontend developer specializing in creating responsive and interactive web applications using **React.js**, **Next.js**, **Redux**, **Tailwind CSS**, and more (express, mongoDB). With a focus on modern JavaScript and clean, efficient code, I aim to build seamless user experiences.
 
 💻 I'm continuously learning and exploring new technologies to refine my skills and deliver high-quality projects. Currently, I'm diving deeper into TypeScript to strengthen my frontend toolkit.
 
