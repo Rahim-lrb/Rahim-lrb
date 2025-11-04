@@ -48,13 +48,6 @@ Join us in enhancing NebulaNet Media—collaborate to shape a dynamic, engaging 
 [![My Skills](https://skillicons.dev/icons?i=figma,php,wordpress)](https://skillicons.dev)
 
 
-
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim-lrb&show_icons=true&theme=radical)
-
----
-
 ### Connect with Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-laribi-467b542b0/)
